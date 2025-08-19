@@ -26,3 +26,5 @@ const result6 = waitingTime("[6,2]", 9)
 console.log(result6);
 const result7 = waitingTime([7, 8, 3, 4, 5], "9")
 console.log(result7);
+const result8 = waitingTime('Hello Guys..')
+console.log(result8);
