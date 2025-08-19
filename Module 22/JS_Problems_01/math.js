@@ -19,7 +19,6 @@ console.log(Math.floor(2.85));
 console.log(Math.floor(9.9999999999999));
 console.log(Math.ceil(2.00001));
 
-
 console.log(Math.random());
 console.log(Math.random()*10);
 const rand = Math.round(Math.random()*10);
